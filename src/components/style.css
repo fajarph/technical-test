@@ -1,0 +1,63 @@
+.body {
+    height: 500px;
+    margin-top: 15px;
+    background-color: #ff9f1a;
+}
+
+/* navbar */
+
+.style-navbar {
+    height: 75px;
+    color: #ff9f1a;
+}
+
+.color-text {
+    color: white;
+}
+
+.color-text-2 {
+    color: #ff9f1a;
+}
+
+.juice-image {
+    height: 300px;
+    width: 300px;
+    margin-top: 40px;
+}
+
+.Logo {
+    height: 65px;
+    width: 65px;
+    margin-bottom: 30px;
+}
+
+.margin-style {
+    margin-top: 120px;
+}
+
+.margin-style-sub {
+    margin-top: 50px;
+}
+
+.people-size {
+    height: 500px;
+    margin-left: 140px;
+}
+
+.bgJus {
+    width: 1349px;
+    height: 180px;
+}
+
+.color-bg {
+    background-color: #ff9f1a;
+}
+
+.footer {
+    height: 150px;
+    background-color: #ff9f1a;
+}
+
+.text-decoration {
+    text-decoration: none;
+}
